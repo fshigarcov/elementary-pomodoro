@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "elementary-pomodoro",
+			"path": "../elementary-pomodoro"
+		}
+	],
+	"settings": {}
+}
